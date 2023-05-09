@@ -8,7 +8,7 @@ An infinite car game where you have to avoid colliding with the oncoming cars. A
 
 ## Installation
 
-1. Make sure you have Python 3 installed on your system.
+1. Make sure you have Python 3 and PIP3 installed on your system.
 2. Clone this repository or download the source code files.
 3. Open a terminal/command prompt and navigate to the project directory.
 4. Install the required dependencies by running the following command:
