@@ -4,7 +4,7 @@
 
 An infinite car game where you have to avoid colliding with the oncoming cars. As the game progresses, the speed increases, challenging your ability to move quickly and avoid crashes. Use the arrow keys to control your car and navigate through the traffic.
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](assets/screenshot.png)
 
 ## Installation
 
