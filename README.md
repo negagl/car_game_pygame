@@ -14,6 +14,7 @@ An infinite car game where you have to avoid colliding with the oncoming cars. A
 4. Install the required dependencies by running the following command:
 
 ```
+source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
